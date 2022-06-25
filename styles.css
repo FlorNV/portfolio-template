@@ -23,7 +23,7 @@ body {
   margin: auto;
   padding: 1rem;
   overflow: hidden;
-  color: var(--accent-color);
+  color: #fff;
   text-align: end;
 }
 
@@ -34,14 +34,14 @@ body {
 }
 
 .menu-item a:hover {
-  color: var(--accent-color);
-  border-bottom: 4px solid var(--accent-color);
+  color: #fff;
+  border-bottom: 4px solid #fff;
 }
 
 .menu-item a {
   padding: 20px;
   text-decoration: none;
-  color: var(--accent-color);
+  color: #fff;
   font-size: 18px;
   letter-spacing: 2px;
   transition: color 0.5s;
@@ -52,7 +52,7 @@ body {
   position: fixed;
   float: left;
   margin: 34px;
-  color: var(--accent-color);
+  color: #fff;
   font-size: 24px;
   font-weight: bold;
 }
