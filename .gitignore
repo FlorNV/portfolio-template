@@ -1,0 +1,7 @@
+#archivos
+.env
+
+#carpetas
+
+#ignora los archivos de cualquier carpeta que tengan extensión .md
+**/*.md
