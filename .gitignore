@@ -2,6 +2,9 @@
 .env
 
 #carpetas
+todo
 
 #ignora los archivos de cualquier carpeta que tengan extensión .md
 **/*.md
+
+**/*.svg
